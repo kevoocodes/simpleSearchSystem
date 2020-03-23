@@ -1,0 +1,59 @@
+Body{
+    margin: 0;
+    background-color: #737373;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #FFF;
+    margin-left: 20px;
+}
+
+.article-container{
+    width: 70%;
+    background-color: #fff;
+    padding: 30px;
+    margin-left: 12%;
+    margin-right: 18%;
+}
+
+
+.article-box {
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+form{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 20px;
+}
+
+.index input {
+    padding: 0px 20px;
+    width: 300px;
+    height: 40px;
+    font-size: 22px;
+    border-style: none;
+}
+
+
+.index button {
+    width: 300px;
+    height: 44px;
+    font-size: 22px;
+    background-color: #0099ff;
+    border-radius: 20px;
+    color: #fff;
+    border-style: none;
+}
+
+
+
+/* 
+    Site developed by: @kevoocodes
+*/
+
+
